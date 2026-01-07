@@ -1,0 +1,4 @@
+{
+    "command": "npm install --legacy-peer-deps && npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/modular-frontend-suite-25615-25624/main_angular_microfrontend"
+}
